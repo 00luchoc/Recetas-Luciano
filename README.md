@@ -1,2 +1,4 @@
 # Recetas-Luciano
-Repositorio de puebras
+Repositorio
+
+En este repositorio voy a poner una lista de recetas
